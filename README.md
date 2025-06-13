@@ -81,7 +81,7 @@ ViewPesa uses a **bottom navigation bar** to easily switch between:
 To run the app locally:
 
 `bash
-git clone https://github.com/semedo-nob/viewpesa.git
+git clone https://github.com/jaredvincent414/viewPesa2.git
 cd viewpesa
 flutter pub get
 flutter run
